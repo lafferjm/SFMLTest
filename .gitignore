@@ -1,3 +1,4 @@
 *.o
 *.pyc
 .DS_Store
+SFMLTest.xcodeproj/
